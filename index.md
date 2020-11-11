@@ -4,7 +4,7 @@
 
 <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="350" width ="250"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="350" width ="250">
 [Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf)                              [Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="200" width="200">
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="350" width="200">
 [Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf)
 <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_features_ae_32_k_3Dim_all_Classes.pdf" height="350" >
 [Autoencoder32_k](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_features_ae_32_k_3Dim_all_Classes.pdf)
