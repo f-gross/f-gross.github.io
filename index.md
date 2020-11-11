@@ -1,6 +1,6 @@
 # Visualisierungen
 
-### Experiment 1 - Deutschland
+### Experiment 1 - Deutscher Datensatz - Visualisierung
 
 <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf)
@@ -18,7 +18,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_bert_3Dim_all_Classes.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_lda_3Dim_all_Classes.pdf)
 
 
-### Experiment 1 - Kanada
+### Experiment 1 - Kanadischer Datensatz - Visualisierung
 
 <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_k_3Dim_all_Classes_T1Can.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_kv_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_k_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_kv_3Dim_all_Classes_T1Can.pdf)
@@ -36,7 +36,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_bert_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_lda_3Dim_all_Classes_T1Can.pdf)
 
 
-### Experiment 2 - Deutschland
+### Experiment 2 - Deutscher Datensatz - Visualisierung
 
 <embed src="https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_onehot_k_3Dim_all_Classes_T2Ger.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_onehot_kv_3Dim_all_Classes_T2Ger.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_onehot_k_3Dim_all_Classes_T2Ger.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_onehot_kv_3Dim_all_Classes_T2Ger.pdf)
@@ -53,7 +53,7 @@
 <embed src="https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_bert_3Dim_all_Classes_T2Ger.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_lda_3Dim_all_Classes_T2Ger.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_bert_3Dim_all_Classes_T2Ger.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Visualisation/T2Germany/Visualization_lda_3Dim_all_Classes_T2Ger.pdf)
 
-### Experiment 2 - Kanada
+### Experiment 2 - Kanadischer Datensatz - Visualisierung
 
 <embed src="https://f-gross.github.io/pdf/Visualisation/T2Canada/Visualization_onehot_k_3Dim_all_Classes_T2Can.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T2Canada/Visualization_onehot_kv_3Dim_all_Classes_T2Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T2Canada/Visualization_onehot_k_3Dim_all_Classes_T2Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T2Canada/Visualization_onehot_kv_3Dim_all_Classes_T2Can.pdf)
@@ -72,7 +72,7 @@
 
 # Clustering
 
-### Experiment 1 - Deutschland
+### Experiment 1 - Deutscher Datensatz - Clustering
 
 <embed src="https://f-gross.github.io/pdf/Clustering/T1Germany/onehot_k_kmeans_before.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Clustering/T1Germany/onehot_kv_kmeans_before.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Clustering/T1Germany/onehot_k_kmeans_before.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Clustering/T1Germany/onehot_kv_kmeans_before.pdf)
@@ -89,7 +89,7 @@
 <embed src="https://f-gross.github.io/pdf/Clustering/T1Germany/bert_kmeans_before.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Clustering/T1Germany/lda_kmeans_before.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Clustering/T1Germany/bert_kmeans_before.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Clustering/T1Germany/lda_kmeans_before.pdf)
 
-### Experiment 1 - Kanada
+### Experiment 1 - Kanadischer Datensatz - Clustering
 
 <embed src="https://f-gross.github.io/pdf/Clustering/T1Canada/onehot_k_kmeans_before_T1Can.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Clustering/T1Canada/onehot_kv_kmeans_before_T1Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Clustering/T1Canada/onehot_k_kmeans_before_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Clustering/T1Canada/onehot_kv_kmeans_before_T1Can.pdf)
@@ -106,7 +106,7 @@
 <embed src="https://f-gross.github.io/pdf/Clustering/T1Canada/bert_kmeans_before_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Clustering/T1Canada/lda_kmeans_before_T1Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Clustering/T1Canada/bert_kmeans_before_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Clustering/T1Canada/lda_kmeans_before_T1Can.pdf)
 
-### Experiment 2 - Deutschland
+### Experiment 2 - Deutscher Datensatz - Clustering
 
 <embed src="https://f-gross.github.io/pdf/Clustering/T2Germany/onehot_k_kmeans_before_T2Ger.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Clustering/T2Germany/onehot_kv_kmeans_before_T2Ger.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Clustering/T2Germany/onehot_k_kmeans_before_T2Ger.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Clustering/T2Germany/onehot_kv_kmeans_before_T2Ger.pdf)
@@ -123,7 +123,7 @@
 <embed src="https://f-gross.github.io/pdf/Clustering/T2Germany/bert_kmeans_before_T2Ger.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Clustering/T2Germany/lda_kmeans_before_T2Ger.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Clustering/T2Germany/bert_kmeans_before_T2Ger.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Clustering/T2Germany/lda_kmeans_before_T2Ger.pdf)
 
-### Experiment 2 - Kanada
+### Experiment 2 - Kanadischer Datensatz - Clustering
 
 <embed src="https://f-gross.github.io/pdf/Clustering/T2Canada/onehot_k_kmeans_before_T2Can.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Clustering/T2Canada/onehot_kv_kmeans_before_T2Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Clustering/T2Canada/onehot_k_kmeans_before_T2Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Clustering/T2Canada/onehot_kv_kmeans_before_T2Can.pdf)
@@ -142,7 +142,7 @@
 
 # Loss
 
-### Experiment 1 - Deutschland
+### Experiment 1 - Deutscher Datensatz - Loss
 
 <embed src="https://f-gross.github.io/pdf/Loss/T1Germany/onehot_k_loss.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Loss/T1Germany/onehot_kv_loss.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Loss/T1Germany/onehot_k_loss.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Loss/T1Germany/onehot_kv_loss.pdf)
@@ -159,7 +159,7 @@
 <embed src="https://f-gross.github.io/pdf/Loss/T1Germany/bert_loss.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Loss/T1Germany/lda_loss.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Loss/T1Germany/bert_loss.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Loss/T1Germany/lda_loss.pdf)
 
-### Experiment 1 - Kanada
+### Experiment 1 - Kanadischer Datensatz - Loss
 
 <embed src="https://f-gross.github.io/pdf/Loss/T1Canada/onehot_k_loss_T1Can.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Loss/T1Canada/onehot_kv_loss_T1Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Loss/T1Canada/onehot_k_loss_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Loss/T1Canada/onehot_kv_loss_T1Can.pdf)
@@ -176,7 +176,7 @@
 <embed src="https://f-gross.github.io/pdf/Loss/T1Canada/bert_loss_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Loss/T1Canada/lda_loss_T1Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Loss/T1Canada/bert_loss_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Loss/T1Canada/lda_loss_T1Can.pdf)
 
-### Experiment 2 - Deutschland
+### Experiment 2 - Deutscher Datensatz - Loss
 
 <embed src="https://f-gross.github.io/pdf/Loss/T2Germany/onehot_k_loss_T2Ger.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Loss/T2Germany/onehot_kv_loss_T2Ger.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Loss/T2Germany/onehot_k_loss_T2Ger.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Loss/T2Germany/onehot_kv_loss_T2Ger.pdf)
@@ -193,7 +193,7 @@
 <embed src="https://f-gross.github.io/pdf/Loss/T2Germany/bert_loss_T2Ger.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Loss/T2Germany/lda_loss_T2Ger.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Loss/T2Germany/bert_loss_T2Ger.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Loss/T2Germany/lda_loss_T2Ger.pdf)
 
-### Experiment 2 - Kanada
+### Experiment 2 - Kanadischer Datensatz - Loss
 
 <embed src="https://f-gross.github.io/pdf/Loss/T2Canada/onehot_k_loss_T2Can.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Loss/T2Canada/onehot_kv_loss_T2Can.pdf" height="350" width ="275" align="right">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Loss/T2Canada/onehot_k_loss_T2Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Loss/T2Canada/onehot_kv_loss_T2Can.pdf)
