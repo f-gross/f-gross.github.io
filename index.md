@@ -3,7 +3,7 @@
 ### Experiment 1 - Deutschland
 
 <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="350" width ="275" align="right">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf)
 <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="300" width="300">
 [Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf)
 <embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_features_ae_32_k_3Dim_all_Classes.pdf" height="350" >
