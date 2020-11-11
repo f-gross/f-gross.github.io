@@ -1,8 +1,10 @@
-### Visualisierungen
+# Visualisierungen
 
-# Experiment 1 - Deutschland
+### Experiment 1 - Deutschland
 
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  title="test" height="350" type="application/pdf" />
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="350" type="application/pdf" />
+
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf"  >
 
 
 
