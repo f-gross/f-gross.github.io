@@ -20,34 +20,20 @@
 
 ### Experiment 1 - Kanada
 
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_k_3Dim_all_Classes_T1Can.pdf"  height="350" >
-[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_k_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_kv_3Dim_all_Classes_T1Can.pdf" height="350" >
-[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_kv_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_32_k_3Dim_all_Classes_T1Can.pdf" height="350" >
-[Autoencoder32_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_32_k_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_32_kv_3Dim_all_Classes_T1Can.pdf" height="350" >
-[Autoencoder32_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_32_kv_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_k_3Dim_all_Classes_T1Can.pdf" height="350" >
-[Autoencoder64_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_k_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_kv_3Dim_all_Classes_T1Can.pdf" height="350" >
-[Autoencoder64_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_kv_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_k_3Dim_all_Classes_T1Can.pdf" height="350" >
-[ARNet32_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_k_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_kv_3Dim_all_Classes_T1Can.pdf" height="350" >
-[ARNet32_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_kv_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_k_3Dim_all_Classes_T1Can.pdf" height="350" >
-[ARNet64_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_k_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_kv_3Dim_all_Classes_T1Can.pdf" height="350" >
-[ARNet64_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_kv_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_k_3Dim_all_Classes_T1Can.pdf"  height="350" >
-[PCA_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_k_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_kv_3Dim_all_Classes_T1Can.pdf" height="350" >
-[PCA_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_kv_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_bert_3Dim_all_Classes_T1Can.pdf"  height="350" >
-[BERT](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_bert_3Dim_all_Classes_T1Can.pdf)
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_lda_3Dim_all_Classes_T1Can.pdf" height="350" >
-[LDA](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_lda_3Dim_all_Classes_T1Can.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_k_3Dim_all_Classes_T1Can.pdf"  height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_kv_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_k_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_onehot_kv_3Dim_all_Classes_T1Can.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_32_k_3Dim_all_Classes_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_32_kv_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Autoencoder32_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_32_k_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Autoencoder32_kv](https://f-gross.github.io/pdf/Visualisation/T1CanadaT1Canada/Visualization_features_ae_32_kv_3Dim_all_Classes_T1Can.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_k_3Dim_all_Classes_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_kv_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Autoencoder64_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_k_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Autoencoder64_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_ae_64_kv_3Dim_all_Classes_T1Can.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_k_3Dim_all_Classes_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_kv_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[ARNet32_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_k_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[ARNet32_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_32_kv_3Dim_all_Classes_T1Can.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_k_3Dim_all_Classes_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_kv_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[ARNet64_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_k_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[ARNet64_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_features_arn_64_kv_3Dim_all_Classes_T1Can.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_k_3Dim_all_Classes_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_kv_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[PCA_k](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_k_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[PCA_kv](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_pca3dim_kv_3Dim_all_Classes_T1Can.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_bert_3Dim_all_Classes_T1Can.pdf" height="350" width ="275"> <embed src="https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_lda_3Dim_all_Classes_T1Can.pdf" height="350" width ="275" align="right">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[BERT](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_bert_3Dim_all_Classes_T1Can.pdf)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[LDA](https://f-gross.github.io/pdf/Visualisation/T1Canada/Visualization_lda_3Dim_all_Classes_T1Can.pdf)
 
 
 ### Experiment 2 - Deutschland
