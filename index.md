@@ -6,9 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<img src="https://f-gross.github.io/ARN.jpg"
-height="300">
-<embed src="https://f-gross.github.io/Visualization_onehot_k_3Dim_all_Classes.pdf" type="application/pdf" />
+
+<embed src="https://f-gross.github.io/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="300" type="application/pdf" />
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
