@@ -2,10 +2,10 @@
 
 ### Experiment 1 - Deutschland
 
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="320" type="application/pdf" />
-
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="330" >
-
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="340" type="application/pdf" />
+[Onehot_k](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf)
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="335" >
+[Onehot_kv](https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf)
 
 
 
