@@ -2,9 +2,9 @@
 
 ### Experiment 1 - Deutschland
 
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="310" type="application/pdf" />
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_k_3Dim_all_Classes.pdf"  height="320" type="application/pdf" />
 
-<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="310" >
+<embed src="https://f-gross.github.io/pdf/Visualisation/T1Germany/Visualization_onehot_kv_3Dim_all_Classes.pdf" height="330" >
 
 
 
